@@ -1,0 +1,27 @@
+{
+  "name": "vrtobar-proxy",
+  "version": "1.0.0",
+  "description": "Proxy for Navigation Bar",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChampsOfTheSun/vrtobar-proxy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChampsOfTheSun/vrtobar-proxy/issues"
+  },
+  "homepage": "https://github.com/ChampsOfTheSun/vrtobar-proxy#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
